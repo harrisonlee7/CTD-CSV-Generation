@@ -6,6 +6,9 @@ Interpolates data to put sound speeds at certain depths<br />
 Takes in a folder of pickle files that contain CTD sound speed data. Put this folder in the working directory of the code.<br />
 Exported CSV file will also be placed in the working directory. <br />
 <br />
+NOTE: CSV file has depths moved upwards by 2 due to date label taking up first row and 0 being a depth as well.<br />
+For example: a depth of 2 on the CSV file would correlate to a depth of 0 in the data. <br />
+<br />
 User inputs:<br />
 Folder Name <br />
 osType <br />
