@@ -13,6 +13,6 @@ Start Date <br />
 End Date <br />
 <br />
 Folder Name - Input for the name of the folder the pickle files are contained within<br />
-osType - Due to differences with how Unix based systems and Windows go through directories, it is necessary to specify a \\ for windows and / for unix based systems
-Start Date - Start date which you want your CSV data to begin
+osType - Due to differences with how Unix based systems and Windows go through directories, it is necessary to specify a \\ for windows and / for unix based systems<br />
+Start Date - Start date which you want your CSV data to begin<br />
 End Date - End date where you want your CSV data to end
